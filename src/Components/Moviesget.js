@@ -32,7 +32,7 @@ const Moviesget = () => {
           className="search-one"
           type="search"
           value={search}
-          onChange={(e) => setsearch(e.target.value)}
+          onChange={(e) => setsearch(e.targestat.value)}
         ></input>
       </div>
 
